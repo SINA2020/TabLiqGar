@@ -2,6 +2,6 @@
 COUNTER=1
 while(true) do
  ./start
-curl "https://api.telegram.org/bot399235347:AAGgf0IA7kz_DrVOKmwJOH5QsFWarhzo44Q/sendmessage" -F "chat_id=-1001108991032" -F "text=TabLiqGar NOW RUNNING"
+curl "https://api.telegram.org/bot389653950:AAGC_McVL6nuXyXRKdMwpWJK04-VfFX-Pbc/sendmessage" -F "chat_id=-1001108991032" -F "text=TabLiqGar NOW RUNNING"
 let COUNTER=COUNTER+1 
 done
