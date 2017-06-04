@@ -1,5 +1,5 @@
 tabchi = dofile('./bot/funcation.lua')
-tabchi_id = 389653950
+tabchi_id = 386996717
 ---------------------------------
 
 json = dofile('./libs/JSON.lua')
@@ -13,7 +13,7 @@ http = require "socket.http"
 https = require "ssl.https"
 -----~~~~~~~~~~~~~~~~
 d = dofile('./libs/redis.lua')
-config_sudo = {333677042,378689087}
+config_sudo = {97473478,378689087}
 function dl_cb(arg, data)
  --vardump(data)
  --vardump(arg)
